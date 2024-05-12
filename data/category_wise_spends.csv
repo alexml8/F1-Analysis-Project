@@ -1,0 +1,131 @@
+id,title,sum,team_id,year
+61,Salaries,20041684,1,2022
+61,Salaries,81250000,2,2022
+61,Salaries,65000000,3,2022
+61,Salaries,55466684,4,2022
+61,Salaries,83416684,5,2022
+61,Salaries,34400000,6,2022
+61,Salaries,21250017,7,2022
+61,Salaries,23291684,8,2022
+3,Research and Development ,20000,9,2022
+61,Salaries,18958316,9,2022
+61,Salaries,33915000,10,2022
+9,Floor,430000,1,2023
+10,Rear Wing,720000,1,2023
+44,Front wing,1136000,1,2023
+47,Homologation,2000000,1,2023
+56,Gearbox,1920000,1,2023
+61,Salaries,19656267,1,2023
+64,Fuel tank,124000,1,2023
+83,Driveshafts,54000,1,2023
+84,Chassis Wiring Looms,150000,1,2023
+85,Wheel Bearings,280000,1,2023
+2,Shipping Freight Costs ,80000,2,2023
+2,Shipping Freight Costs ,80000,2,2023
+9,Floor,780000,2,2023
+10,Rear Wing,720000,2,2023
+44,Front wing,1136000,2,2023
+47,Homologation,2000000,2,2023
+56,Gearbox,1820000,2,2023
+61,Salaries,82812500,2,2023
+64,Fuel tank,124000,2,2023
+83,Driveshafts,54000,2,2023
+84,Chassis Wiring Looms,150000,2,2023
+85,Wheel Bearings,280000,2,2023
+11,Car Development,0,3,2023
+6,Human Resources Department and  Activities,0,3,2023
+62,Halo,0,3,2023
+9,Floor,740000,3,2023
+10,Rear Wing,720100,3,2023
+44,Front wing,1136100,3,2023
+47,Homologation,2000000,3,2023
+56,Gearbox,1820000,3,2023
+61,Salaries,65000000,3,2023
+64,Fuel tank,124000,3,2023
+83,Driveshafts,36000,3,2023
+84,Chassis Wiring Looms,150000,3,2023
+85,Wheel Bearings,280000,3,2023
+11,Car Development,20000,4,2023
+3,Research and Development ,45000,4,2023
+9,Floor,490000,4,2023
+10,Rear Wing,720000,4,2023
+29,Entertainment Costs,10000,4,2023
+43,Energy Recovery System,55000,4,2023
+44,Front wing,1140000,4,2023
+47,Homologation,2000000,4,2023
+51,Monocoque,600000,4,2023
+54,Rear Suspension,0,4,2023
+56,Gearbox,1820000,4,2023
+61,Salaries,57600018,4,2023
+64,Fuel tank,124000,4,2023
+83,Driveshafts,72000,4,2023
+84,Chassis Wiring Looms,150000,4,2023
+85,Wheel Bearings,280000,4,2023
+6,Human Resources Department and  Activities,30000,5,2023
+9,Floor,780000,5,2023
+10,Rear Wing,720000,5,2023
+44,Front wing,1136000,5,2023
+47,Homologation,2000000,5,2023
+56,Gearbox,1820000,5,2023
+61,Salaries,81812517,5,2023
+64,Fuel tank,124000,5,2023
+83,Driveshafts,54000,5,2023
+84,Chassis Wiring Looms,150000,5,2023
+85,Wheel Bearings,280000,5,2023
+6,Human Resources Department and  Activities,45654,6,2023
+9,Floor,700000,6,2023
+10,Rear Wing,720000,6,2023
+44,Front wing,1136000,6,2023
+47,Homologation,2000000,6,2023
+56,Gearbox,2120000,6,2023
+61,Salaries,34450000,6,2023
+64,Fuel tank,124000,6,2023
+83,Driveshafts,36000,6,2023
+84,Chassis Wiring Looms,150000,6,2023
+85,Wheel Bearings,280000,6,2023
+62,Halo,20000,7,2023
+9,Floor,526000,7,2023
+10,Rear Wing,720000,7,2023
+44,Front wing,1136000,7,2023
+47,Homologation,2000000,7,2023
+56,Gearbox,2120000,7,2023
+61,Salaries,21250017,7,2023
+64,Fuel tank,124000,7,2023
+83,Driveshafts,54000,7,2023
+84,Chassis Wiring Looms,150000,7,2023
+85,Wheel Bearings,210000,7,2023
+9,Floor,578000,8,2023
+10,Rear Wing,720000,8,2023
+44,Front wing,1136000,8,2023
+47,Homologation,2000000,8,2023
+56,Gearbox,2120000,8,2023
+61,Salaries,22443767,8,2023
+64,Fuel tank,124000,8,2023
+83,Driveshafts,54000,8,2023
+84,Chassis Wiring Looms,150000,8,2023
+85,Wheel Bearings,280000,8,2023
+8,Non-F1 Activities,0,9,2023
+3,Research and Development ,2000,9,2023
+9,Floor,460000,9,2023
+10,Rear Wing,720000,9,2023
+44,Front wing,1136000,9,2023
+47,Homologation,2000000,9,2023
+56,Gearbox,2120000,9,2023
+61,Salaries,18593733,9,2023
+64,Fuel tank,124000,9,2023
+83,Driveshafts,54000,9,2023
+84,Chassis Wiring Looms,150000,9,2023
+85,Wheel Bearings,280000,9,2023
+2,Shipping Freight Costs ,40000,10,2023
+2,Shipping Freight Costs ,40000,10,2023
+3,Research and Development ,80000,10,2023
+9,Floor,670000,10,2023
+10,Rear Wing,720000,10,2023
+44,Front wing,1136000,10,2023
+47,Homologation,2000000,10,2023
+56,Gearbox,2120000,10,2023
+61,Salaries,33915000,10,2023
+64,Fuel tank,124000,10,2023
+83,Driveshafts,54000,10,2023
+84,Chassis Wiring Looms,150000,10,2023
+85,Wheel Bearings,280000,10,2023

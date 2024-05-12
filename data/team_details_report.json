@@ -1,0 +1,4566 @@
+{
+    "2023": {
+        "data": [
+            {
+                "id": 9,
+                "name": "Haas F1 Team",
+                "title": "Haas F1 Team",
+                "slug": "haas-f1-team",
+                "subtitle": "Haas F1 Team",
+                "description": "The Haas F1 Team, originally Haas Formula, is an American motorsport team that has competed in the Formula One World Championship since 2016. Due to a partnership with the financial company MoneyGram, it will compete in Formula 1 from the 2023 World Championship under the sponsorship name MoneyGram Haas F1 Team.",
+                "category_wise_spends": [
+                    {
+                        "id": 8,
+                        "title": "Non-F1 Activities",
+                        "sum": 0,
+                        "color": "#ffeb00"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Research and Development ",
+                        "sum": 2000,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 460000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 2120000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 18593733,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 54000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 3224583,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 382583,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    }
+                ],
+                "total_spends": 25639733
+            },
+            {
+                "id": 4,
+                "name": "Mc Laren",
+                "title": "McLaren",
+                "slug": "mc-laren",
+                "subtitle": null,
+                "description": "McLaren is a British luxury sports car manufacturer founded in 1989 by Bruce McLaren. The company is known for its high-performance vehicles, including the McLaren F1, P1 and Senna. McLaren has also had a successful history in motorsports, particularly in Formula One, where they have won 8 constructor championships and 12 driver championships.",
+                "category_wise_spends": [
+                    {
+                        "id": 11,
+                        "title": "Car Development",
+                        "sum": 20000,
+                        "color": "#61e189"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Research and Development ",
+                        "sum": 45000,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 490000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 29,
+                        "title": "Entertainment Costs",
+                        "sum": 10000,
+                        "color": null
+                    },
+                    {
+                        "id": 43,
+                        "title": "Energy Recovery System",
+                        "sum": 55000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1140000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 51,
+                        "title": "Monocoque",
+                        "sum": 600000,
+                        "color": null
+                    },
+                    {
+                        "id": 54,
+                        "title": "Rear Suspension",
+                        "sum": 0,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 1820000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 57600018,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 72000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 18000,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 1666667,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 1086667,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 4411667,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 1135667,
+                        "color": null
+                    }
+                ],
+                "total_spends": 65126018
+            },
+            {
+                "id": 1,
+                "name": "Williams",
+                "title": "Williams",
+                "slug": "williams",
+                "subtitle": null,
+                "description": "Williams Grand Prix Engineering Limited, currently racing in Formula One as Williams Racing, is a British Formula One motor racing team and constructor. It was founded by former team owner Frank Williams and automotive engineer Patrick Head.",
+                "category_wise_spends": [
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 430000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 1920000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 19656267,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 54000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 3637417,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 403417,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    }
+                ],
+                "total_spends": 26470267
+            },
+            {
+                "id": 5,
+                "name": "Ferrari",
+                "title": "Ferrari",
+                "slug": "ferrari",
+                "subtitle": null,
+                "description": "Ferrari is an Italian luxury sports car manufacturer founded by Enzo Ferrari in 1947. The company is known for its high-performance vehicles and its participation in motorsports, particularly Formula One. The company's iconic models include the Ferrari Testarossa, Enzo Ferrari, and LaFerrari.",
+                "category_wise_spends": [
+                    {
+                        "id": 6,
+                        "title": "Human Resources Department and  Activities",
+                        "sum": 30000,
+                        "color": "#7500ff"
+                    },
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 780000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 1820000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 81812517,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 54000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 1622167,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 24,
+                        "title": "Las Vegas Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 3208334,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 4526167,
+                        "color": null
+                    }
+                ],
+                "total_spends": 88906517
+            },
+            {
+                "id": 8,
+                "name": "Visa Cash App RB F1 Team",
+                "title": "Visa Cash App RB F1 Team",
+                "slug": "visa-cash-app-rb-f1-team",
+                "subtitle": null,
+                "description": "The Italian Formula One racing team and constructor, previously named Scuderia Toro Rosso from 2006 to 2019 and Scuderia AlphaTauri from 2020 to 2023, is now racing as the Visa Cash App RB F1 Team in the 2024 season.",
+                "category_wise_spends": [
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 578000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 2120000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 22443767,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 54000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 3447917,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 465917,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    }
+                ],
+                "total_spends": 29605767
+            },
+            {
+                "id": 6,
+                "name": "Aston Martin",
+                "title": "Aston Martin",
+                "slug": "aston-martin",
+                "subtitle": null,
+                "description": "Aston Martin is a British luxury car manufacturer founded in 1913. The company is known for its iconic sports cars and grand tourers, such as the Vantage, DB11, and DBS Superleggera. Aston Martin has a reputation for producing high-performance, stylish, and exclusive vehicles, and has been featured in numerous James Bond films.",
+                "category_wise_spends": [
+                    {
+                        "id": 6,
+                        "title": "Human Resources Department and  Activities",
+                        "sum": 45654,
+                        "color": "#7500ff"
+                    },
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 700000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 2120000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 34450000,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 36000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 24,
+                        "title": "Las Vegas Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 668000,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 3332000,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    }
+                ],
+                "total_spends": 41779654
+            },
+            {
+                "id": 2,
+                "name": "Red Bull",
+                "title": "Red Bull",
+                "slug": "red-bull",
+                "subtitle": null,
+                "description": "Red Bull Racing is an Austrian Formula One racing team, founded in 2005. The team is based in Milton Keynes, England and is owned by the energy drink company Red Bull. The team has competed in Formula One since 2005 and has had a successful run, winning 4 consecutive Constructors' Championship from 2010 to 2013, and 4 drivers' championship",
+                "category_wise_spends": [
+                    {
+                        "id": 2,
+                        "title": "Shipping Freight Costs ",
+                        "sum": 80000,
+                        "color": "#66ff00"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Shipping Freight Costs ",
+                        "sum": 80000,
+                        "color": "#a31871"
+                    },
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 780000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 1820000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 82812500,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 54000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 24,
+                        "title": "Las Vegas Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 5024500,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 3125000,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 1580500,
+                        "color": null
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    }
+                ],
+                "total_spends": 90036500
+            },
+            {
+                "id": 3,
+                "name": "Mercedes",
+                "title": "Mercedes",
+                "slug": "mercedes",
+                "subtitle": null,
+                "description": "Mercedes-Benz is a German luxury car manufacturer and a division of Daimler AG. Founded in 1926, the company is known for its luxury vehicles, buses, coaches, and trucks. Mercedes-Benz is also a pioneer of automotive technology and has a reputation for producing high-performance vehicles, including its AMG performance line and its Formula One team",
+                "category_wise_spends": [
+                    {
+                        "id": 11,
+                        "title": "Car Development",
+                        "sum": 0,
+                        "color": "#61e189"
+                    },
+                    {
+                        "id": 6,
+                        "title": "Human Resources Department and  Activities",
+                        "sum": 0,
+                        "color": "#7500ff"
+                    },
+                    {
+                        "id": 62,
+                        "title": "Halo",
+                        "sum": 0,
+                        "color": "#ff0505"
+                    },
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 740000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720100,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136100,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 1820000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 65000000,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 36000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 24,
+                        "title": "Las Vegas Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 4654200,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 1268000,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    }
+                ],
+                "total_spends": 72006200
+            },
+            {
+                "id": 7,
+                "name": "Stake F1 Team Kick Sauber",
+                "title": "Stake F1 Team Kick Sauber",
+                "slug": "stake-f1-team-kick-sauber",
+                "subtitle": null,
+                "description": "The team was formerly known as BMW Sauber from 2006 to 2010 and then rebranded as the Alfa Romeo F1 Team from 2019 to 2023 through partnership agreements with BMW and Alfa Romeo, respectively. Sauber is set to make an exhilarating comeback in 2024 under the name \"Stake F1 Team Kick Sauber.\"",
+                "category_wise_spends": [
+                    {
+                        "id": 62,
+                        "title": "Halo",
+                        "sum": 20000,
+                        "color": "#ff0505"
+                    },
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 526000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 2120000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 21250017,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 54000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 210000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 3924667,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 434667,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    }
+                ],
+                "total_spends": 28380017
+            },
+            {
+                "id": 10,
+                "name": "Alpine",
+                "title": "Alpine F1 Team",
+                "slug": "team-1",
+                "subtitle": "Alpine F1 Team",
+                "description": "Alpine F1 Team, known as Renault DP World F1 Team until 2020, is a British-based motorsport racing team that has competed in the Formula 1 World Championship since 2016. The team, which belongs to the French car manufacturer Renault, succeeded the former Lotus F1 Team. It is already the third factory Formula 1 outing of the French company",
+                "category_wise_spends": [
+                    {
+                        "id": 2,
+                        "title": "Shipping Freight Costs ",
+                        "sum": 40000,
+                        "color": "#66ff00"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Shipping Freight Costs ",
+                        "sum": 40000,
+                        "color": "#a31871"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Research and Development ",
+                        "sum": 80000,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Floor",
+                        "sum": 670000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Rear Wing",
+                        "sum": 720000,
+                        "color": null
+                    },
+                    {
+                        "id": 44,
+                        "title": "Front wing",
+                        "sum": 1136000,
+                        "color": null
+                    },
+                    {
+                        "id": 47,
+                        "title": "Homologation",
+                        "sum": 2000000,
+                        "color": null
+                    },
+                    {
+                        "id": 56,
+                        "title": "Gearbox",
+                        "sum": 2120000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 33915000,
+                        "color": null
+                    },
+                    {
+                        "id": 64,
+                        "title": "Fuel tank",
+                        "sum": 124000,
+                        "color": null
+                    },
+                    {
+                        "id": 83,
+                        "title": "Driveshafts",
+                        "sum": 54000,
+                        "color": null
+                    },
+                    {
+                        "id": 84,
+                        "title": "Chassis Wiring Looms",
+                        "sum": 150000,
+                        "color": null
+                    },
+                    {
+                        "id": 85,
+                        "title": "Wheel Bearings",
+                        "sum": 280000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 6,
+                        "title": "Miami Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 4239000,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 683000,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 7,
+                        "title": "Emilia Romagna Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 24,
+                        "title": "Las Vegas Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 683000,
+                        "color": null
+                    },
+                    {
+                        "id": 20,
+                        "title": "Qatar Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": "#9fbe39"
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    }
+                ],
+                "total_spends": 41329000
+            }
+        ],
+        "category": [
+            {
+                "id": 6,
+                "title": "Human Resources Department and  Activities"
+            },
+            {
+                "id": 2,
+                "title": "Shipping Freight Costs "
+            },
+            {
+                "id": 83,
+                "title": "Driveshafts"
+            },
+            {
+                "id": 12,
+                "title": "Air Freight Costs "
+            },
+            {
+                "id": 22,
+                "title": "Financial Penalties"
+            },
+            {
+                "id": 67,
+                "title": "Gearshifts (Hydraulics)"
+            },
+            {
+                "id": 28,
+                "title": "Hotel Costs for F1 Team Personnel"
+            },
+            {
+                "id": 72,
+                "title": "Throttle (Hydraulics)"
+            },
+            {
+                "id": 77,
+                "title": "Calipers (F1 Brake System)"
+            },
+            {
+                "id": 49,
+                "title": "Power Steering (Hydraulics)"
+            },
+            {
+                "id": 19,
+                "title": "All Corporate Income Tax"
+            },
+            {
+                "id": 9,
+                "title": "Floor"
+            },
+            {
+                "id": 10,
+                "title": "Rear Wing"
+            },
+            {
+                "id": 24,
+                "title": "Depreciation, amortisation, impairment losses"
+            },
+            {
+                "id": 73,
+                "title": "Inlet Valves (Hydraulics)"
+            },
+            {
+                "id": 18,
+                "title": "Excluded Persons: F1 Team's Top Three Highest Paid Employees"
+            },
+            {
+                "id": 14,
+                "title": "Finance Department and Activities"
+            },
+            {
+                "id": 44,
+                "title": "Front wing"
+            },
+            {
+                "id": 16,
+                "title": "Property Costs"
+            },
+            {
+                "id": 7,
+                "title": "Marketing Department and Activities"
+            },
+            {
+                "id": 84,
+                "title": "Chassis Wiring Looms"
+            },
+            {
+                "id": 45,
+                "title": "Front brake ducts"
+            },
+            {
+                "id": 42,
+                "title": "Engine or powertrains department and activities"
+            },
+            {
+                "id": 65,
+                "title": "Steering wheel"
+            },
+            {
+                "id": 46,
+                "title": "Chassis"
+            },
+            {
+                "id": 34,
+                "title": "Reassigned Employee Costs"
+            },
+            {
+                "id": 50,
+                "title": "Brake Drum Deflector"
+            },
+            {
+                "id": 37,
+                "title": "Nose"
+            },
+            {
+                "id": 40,
+                "title": "Engine software"
+            },
+            {
+                "id": 17,
+                "title": "Reserve Driver and 3rd Party Drivers costs"
+            },
+            {
+                "id": 41,
+                "title": "Sidepods"
+            },
+            {
+                "id": 43,
+                "title": "Energy Recovery System"
+            },
+            {
+                "id": 68,
+                "title": "Reverse Gear (Hydraulics)"
+            },
+            {
+                "id": 35,
+                "title": "Communication department and activities"
+            },
+            {
+                "id": 79,
+                "title": "Disc Bells (F1 Brake System)"
+            },
+            {
+                "id": 36,
+                "title": "Sponsorship department and activities"
+            },
+            {
+                "id": 52,
+                "title": "Front Suspension"
+            },
+            {
+                "id": 47,
+                "title": "Homologation"
+            },
+            {
+                "id": 78,
+                "title": "Master Cylinders (F1 Brake System)"
+            },
+            {
+                "id": 48,
+                "title": "Accident Damage"
+            },
+            {
+                "id": 53,
+                "title": "Wheel"
+            },
+            {
+                "id": 57,
+                "title": "Brakes"
+            },
+            {
+                "id": 58,
+                "title": "Electronics"
+            },
+            {
+                "id": 59,
+                "title": "Road freight costs"
+            },
+            {
+                "id": 51,
+                "title": "Monocoque"
+            },
+            {
+                "id": 69,
+                "title": "Differential (Hydraulics)"
+            },
+            {
+                "id": 1,
+                "title": "F1 Driver Salary Package"
+            },
+            {
+                "id": 61,
+                "title": "Salaries"
+            },
+            {
+                "id": 74,
+                "title": "Turbo Wastegate (Hydraulics)"
+            },
+            {
+                "id": 39,
+                "title": "F1 Engine"
+            },
+            {
+                "id": 80,
+                "title": "Accelerator Pedals"
+            },
+            {
+                "id": 54,
+                "title": "Rear Suspension"
+            },
+            {
+                "id": 33,
+                "title": "Employee Termination Benefits Costs"
+            },
+            {
+                "id": 75,
+                "title": "Brake Pads (F1 Brake System)"
+            },
+            {
+                "id": 81,
+                "title": "Brake Pedals (F1 Brake System)"
+            },
+            {
+                "id": 55,
+                "title": "Diffuser"
+            },
+            {
+                "id": 70,
+                "title": "DRS System (Hydraulics)"
+            },
+            {
+                "id": 20,
+                "title": "Employee Bonus Costs"
+            },
+            {
+                "id": 56,
+                "title": "Gearbox"
+            },
+            {
+                "id": 71,
+                "title": "Brake By Wire (Hydraulics)"
+            },
+            {
+                "id": 64,
+                "title": "Fuel tank"
+            },
+            {
+                "id": 66,
+                "title": "Clutch (Hydraulics)"
+            },
+            {
+                "id": 60,
+                "title": "Brake Disc"
+            },
+            {
+                "id": 26,
+                "title": "Employer social security contributions"
+            },
+            {
+                "id": 76,
+                "title": "Brake Discs (F1 Brake System)"
+            },
+            {
+                "id": 27,
+                "title": "Flight Costs by F1 Personnel"
+            },
+            {
+                "id": 15,
+                "title": "Legal Department and Activities"
+            },
+            {
+                "id": 11,
+                "title": "Car Development"
+            },
+            {
+                "id": 29,
+                "title": "Entertainment Costs"
+            },
+            {
+                "id": 82,
+                "title": "F1 Tyres"
+            },
+            {
+                "id": 25,
+                "title": "All foreign exchange gains and losses "
+            },
+            {
+                "id": 3,
+                "title": "Research and Development "
+            },
+            {
+                "id": 13,
+                "title": "Heritage Asset Department and Activities"
+            },
+            {
+                "id": 85,
+                "title": "Wheel Bearings"
+            },
+            {
+                "id": 31,
+                "title": "Employee sick leave costs"
+            },
+            {
+                "id": 21,
+                "title": "Costs to the FIA by an F1 Team"
+            },
+            {
+                "id": 63,
+                "title": "Bargeboard"
+            },
+            {
+                "id": 23,
+                "title": "F1 Power Unit Supply Costs"
+            },
+            {
+                "id": 32,
+                "title": "Indefinite sick leave or disability leave costs"
+            },
+            {
+                "id": 30,
+                "title": "Employee maternity leave, paternity leave, shared parental leave or adoption leave costs"
+            },
+            {
+                "id": 8,
+                "title": "Non-F1 Activities"
+            },
+            {
+                "id": 62,
+                "title": "Halo"
+            }
+        ],
+        "componentsTitle": {
+            "title": "F1 Budget Cap Tracker",
+            "internal_ref": "detailed-reports",
+            "sub_note": null,
+            "url": "/f1-budget-cap-tracker"
+        },
+        "races": [
+            {
+                "id": 10,
+                "name": "Canadian Grand Prix"
+            },
+            {
+                "id": 40,
+                "name": "Dutch Grand Prix"
+            },
+            {
+                "id": 4,
+                "name": "Azerbaijan Grand Prix"
+            },
+            {
+                "id": 34,
+                "name": "Canadian Grand Prix"
+            },
+            {
+                "id": 45,
+                "name": "United States Grand Prix"
+            },
+            {
+                "id": 16,
+                "name": "Dutch Grand Prix"
+            },
+            {
+                "id": 37,
+                "name": "French Grand Prix"
+            },
+            {
+                "id": 18,
+                "name": "Singapore Grand Prix"
+            },
+            {
+                "id": 19,
+                "name": "Japanese Grand Prix"
+            },
+            {
+                "id": 28,
+                "name": "Australian Grand Prix"
+            },
+            {
+                "id": 11,
+                "name": "Austrian Grand Prix"
+            },
+            {
+                "id": 38,
+                "name": "Hungarian Grand Prix"
+            },
+            {
+                "id": 43,
+                "name": "Singapore Grand Prix"
+            },
+            {
+                "id": 8,
+                "name": "Monaco Grand Prix"
+            },
+            {
+                "id": 20,
+                "name": "Qatar Grand Prix"
+            },
+            {
+                "id": 33,
+                "name": "Azerbaijan Grand Prix"
+            },
+            {
+                "id": 46,
+                "name": "Mexico Grand Prix"
+            },
+            {
+                "id": 21,
+                "name": "Mexico Grand Prix"
+            },
+            {
+                "id": 27,
+                "name": "Saudi Arabian Grand Prix"
+            },
+            {
+                "id": 36,
+                "name": "Austrian Grand Prix"
+            },
+            {
+                "id": 1,
+                "name": "Australian Grand Prix"
+            },
+            {
+                "id": 22,
+                "name": "United States Grand Prix"
+            },
+            {
+                "id": 7,
+                "name": "Imola Grand Prix"
+            },
+            {
+                "id": 48,
+                "name": "Dhabi Grand Prix"
+            },
+            {
+                "id": 15,
+                "name": "Belgian Grand Prix"
+            },
+            {
+                "id": 23,
+                "name": "Brazilian Grand Prix"
+            },
+            {
+                "id": 41,
+                "name": "Italian Grand Prix"
+            },
+            {
+                "id": 30,
+                "name": "Miami Grand Prix"
+            },
+            {
+                "id": 29,
+                "name": "Imola Grand Prix"
+            },
+            {
+                "id": 14,
+                "name": "Hungarian Grand Prix"
+            },
+            {
+                "id": 12,
+                "name": "British Grand Prix"
+            },
+            {
+                "id": 32,
+                "name": "Monaco Grand Prix"
+            },
+            {
+                "id": 39,
+                "name": "Belgian Grand Prix"
+            },
+            {
+                "id": 3,
+                "name": "Saudi Arabian Grand Prix"
+            },
+            {
+                "id": 44,
+                "name": "Japanese Grand Prix"
+            },
+            {
+                "id": 24,
+                "name": "Las Vegas Grand Prix"
+            },
+            {
+                "id": 31,
+                "name": "Spanish Grand Prix"
+            },
+            {
+                "id": 35,
+                "name": "United Kingdom Grand Prix "
+            },
+            {
+                "id": 42,
+                "name": "Russian Grand Prix"
+            },
+            {
+                "id": 9,
+                "name": "Spanish Grand Prix"
+            },
+            {
+                "id": 25,
+                "name": "Dhabi Grand Prix"
+            },
+            {
+                "id": 50,
+                "name": "Saudi Arabian Grand Prix"
+            },
+            {
+                "id": 6,
+                "name": "Miami Grand Prix"
+            },
+            {
+                "id": 17,
+                "name": "Italian Grand Prix"
+            },
+            {
+                "id": 2,
+                "name": "Bahrain Grand Prix"
+            },
+            {
+                "id": 51,
+                "name": "Australian Grand Prix"
+            },
+            {
+                "id": 49,
+                "name": "Bahrain Grand Prix"
+            },
+            {
+                "id": 47,
+                "name": "Brazilian Grand Prix"
+            },
+            {
+                "id": 26,
+                "name": "Bahrain Grand Prix"
+            }
+        ]
+    },
+    "2022": {
+        "data": [
+            {
+                "id": 9,
+                "name": "Haas F1 Team",
+                "title": "Haas F1 Team",
+                "slug": "haas-f1-team",
+                "subtitle": "Haas F1 Team",
+                "description": "The Haas F1 Team, originally Haas Formula, is an American motorsport team that has competed in the Formula One World Championship since 2016. Due to a partnership with the financial company MoneyGram, it will compete in Formula 1 from the 2023 World Championship under the sponsorship name MoneyGram Haas F1 Team.",
+                "category_wise_spends": [
+                    {
+                        "id": 3,
+                        "title": "Research and Development ",
+                        "sum": 20000,
+                        "color": null
+                    },
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 18958316,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 729166,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 729166,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 729166,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 364583,
+                        "color": null
+                    }
+                ],
+                "total_spends": 18978316
+            },
+            {
+                "id": 4,
+                "name": "Mc Laren",
+                "title": "McLaren",
+                "slug": "mc-laren",
+                "subtitle": null,
+                "description": "McLaren is a British luxury sports car manufacturer founded in 1989 by Bruce McLaren. The company is known for its high-performance vehicles, including the McLaren F1, P1 and Senna. McLaren has also had a successful history in motorsports, particularly in Formula One, where they have won 8 constructor championships and 12 driver championships.",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 55466684,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 2133334,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 1066667,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 2133334,
+                        "color": null
+                    }
+                ],
+                "total_spends": 55466684
+            },
+            {
+                "id": 1,
+                "name": "Williams",
+                "title": "Williams",
+                "slug": "williams",
+                "subtitle": null,
+                "description": "Williams Grand Prix Engineering Limited, currently racing in Formula One as Williams Racing, is a British Formula One motor racing team and constructor. It was founded by former team owner Frank Williams and automotive engineer Patrick Head.",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 20041684,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 770834,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 385417,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 770834,
+                        "color": null
+                    }
+                ],
+                "total_spends": 20041684
+            },
+            {
+                "id": 5,
+                "name": "Ferrari",
+                "title": "Ferrari",
+                "slug": "ferrari",
+                "subtitle": null,
+                "description": "Ferrari is an Italian luxury sports car manufacturer founded by Enzo Ferrari in 1947. The company is known for its high-performance vehicles and its participation in motorsports, particularly Formula One. The company's iconic models include the Ferrari Testarossa, Enzo Ferrari, and LaFerrari.",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 83416684,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 3208334,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 3208334,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 3208334,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 1604167,
+                        "color": null
+                    }
+                ],
+                "total_spends": 83416684
+            },
+            {
+                "id": 8,
+                "name": "Visa Cash App RB F1 Team",
+                "title": "Visa Cash App RB F1 Team",
+                "slug": "visa-cash-app-rb-f1-team",
+                "subtitle": null,
+                "description": "The Italian Formula One racing team and constructor, previously named Scuderia Toro Rosso from 2006 to 2019 and Scuderia AlphaTauri from 2020 to 2023, is now racing as the Visa Cash App RB F1 Team in the 2024 season.",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 23291684,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 895834,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 895834,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 447917,
+                        "color": null
+                    }
+                ],
+                "total_spends": 23291684
+            },
+            {
+                "id": 6,
+                "name": "Aston Martin",
+                "title": "Aston Martin",
+                "slug": "aston-martin",
+                "subtitle": null,
+                "description": "Aston Martin is a British luxury car manufacturer founded in 1913. The company is known for its iconic sports cars and grand tourers, such as the Vantage, DB11, and DBS Superleggera. Aston Martin has a reputation for producing high-performance, stylish, and exclusive vehicles, and has been featured in numerous James Bond films.",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 34400000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 1300000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 1300000,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 650000,
+                        "color": null
+                    }
+                ],
+                "total_spends": 34400000
+            },
+            {
+                "id": 2,
+                "name": "Red Bull",
+                "title": "Red Bull",
+                "slug": "red-bull",
+                "subtitle": null,
+                "description": "Red Bull Racing is an Austrian Formula One racing team, founded in 2005. The team is based in Milton Keynes, England and is owned by the energy drink company Red Bull. The team has competed in Formula One since 2005 and has had a successful run, winning 4 consecutive Constructors' Championship from 2010 to 2013, and 4 drivers' championship",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 81250000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 3125000,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 3125000,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 1562500,
+                        "color": null
+                    }
+                ],
+                "total_spends": 81250000
+            },
+            {
+                "id": 3,
+                "name": "Mercedes",
+                "title": "Mercedes",
+                "slug": "mercedes",
+                "subtitle": null,
+                "description": "Mercedes-Benz is a German luxury car manufacturer and a division of Daimler AG. Founded in 1926, the company is known for its luxury vehicles, buses, coaches, and trucks. Mercedes-Benz is also a pioneer of automotive technology and has a reputation for producing high-performance vehicles, including its AMG performance line and its Formula One team",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 65000000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 2500000,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 2500000,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 1250000,
+                        "color": null
+                    }
+                ],
+                "total_spends": 65000000
+            },
+            {
+                "id": 7,
+                "name": "Stake F1 Team Kick Sauber",
+                "title": "Stake F1 Team Kick Sauber",
+                "slug": "stake-f1-team-kick-sauber",
+                "subtitle": null,
+                "description": "The team was formerly known as BMW Sauber from 2006 to 2010 and then rebranded as the Alfa Romeo F1 Team from 2019 to 2023 through partnership agreements with BMW and Alfa Romeo, respectively. Sauber is set to make an exhilarating comeback in 2024 under the name \"Stake F1 Team Kick Sauber.\"",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 21250017,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 833334,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 833334,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 416667,
+                        "color": null
+                    }
+                ],
+                "total_spends": 21250017
+            },
+            {
+                "id": 10,
+                "name": "Alpine",
+                "title": "Alpine F1 Team",
+                "slug": "team-1",
+                "subtitle": "Alpine F1 Team",
+                "description": "Alpine F1 Team, known as Renault DP World F1 Team until 2020, is a British-based motorsport racing team that has competed in the Formula 1 World Championship since 2016. The team, which belongs to the French car manufacturer Renault, succeeded the former Lotus F1 Team. It is already the third factory Formula 1 outing of the French company",
+                "category_wise_spends": [
+                    {
+                        "id": 61,
+                        "title": "Salaries",
+                        "sum": 33915000,
+                        "color": null
+                    }
+                ],
+                "race_wise_spends": [
+                    {
+                        "id": 21,
+                        "title": "Mexico Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 25,
+                        "title": "Dhabi Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 14,
+                        "title": "Hungarian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 11,
+                        "title": "Austrian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 19,
+                        "title": "Japanese Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bahrain Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 1,
+                        "title": "Australian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 16,
+                        "title": "Dutch Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 17,
+                        "title": "Italian Grand Prix [2023]",
+                        "sum": 1330000,
+                        "color": null
+                    },
+                    {
+                        "id": 4,
+                        "title": "Azerbaijan Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 10,
+                        "title": "Canadian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 23,
+                        "title": "Brazilian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Saudi Arabian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 8,
+                        "title": "Monaco Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 12,
+                        "title": "British Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": "#8405fe"
+                    },
+                    {
+                        "id": 15,
+                        "title": "Belgian Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 9,
+                        "title": "Spanish Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    },
+                    {
+                        "id": 22,
+                        "title": "United States Grand Prix [2023]",
+                        "sum": 1330000,
+                        "color": null
+                    },
+                    {
+                        "id": 18,
+                        "title": "Singapore Grand Prix [2023]",
+                        "sum": 665000,
+                        "color": null
+                    }
+                ],
+                "total_spends": 33915000
+            }
+        ],
+        "category": [
+            {
+                "id": 6,
+                "title": "Human Resources Department and  Activities"
+            },
+            {
+                "id": 2,
+                "title": "Shipping Freight Costs "
+            },
+            {
+                "id": 83,
+                "title": "Driveshafts"
+            },
+            {
+                "id": 12,
+                "title": "Air Freight Costs "
+            },
+            {
+                "id": 22,
+                "title": "Financial Penalties"
+            },
+            {
+                "id": 67,
+                "title": "Gearshifts (Hydraulics)"
+            },
+            {
+                "id": 28,
+                "title": "Hotel Costs for F1 Team Personnel"
+            },
+            {
+                "id": 72,
+                "title": "Throttle (Hydraulics)"
+            },
+            {
+                "id": 77,
+                "title": "Calipers (F1 Brake System)"
+            },
+            {
+                "id": 49,
+                "title": "Power Steering (Hydraulics)"
+            },
+            {
+                "id": 19,
+                "title": "All Corporate Income Tax"
+            },
+            {
+                "id": 9,
+                "title": "Floor"
+            },
+            {
+                "id": 10,
+                "title": "Rear Wing"
+            },
+            {
+                "id": 24,
+                "title": "Depreciation, amortisation, impairment losses"
+            },
+            {
+                "id": 73,
+                "title": "Inlet Valves (Hydraulics)"
+            },
+            {
+                "id": 18,
+                "title": "Excluded Persons: F1 Team's Top Three Highest Paid Employees"
+            },
+            {
+                "id": 14,
+                "title": "Finance Department and Activities"
+            },
+            {
+                "id": 44,
+                "title": "Front wing"
+            },
+            {
+                "id": 16,
+                "title": "Property Costs"
+            },
+            {
+                "id": 7,
+                "title": "Marketing Department and Activities"
+            },
+            {
+                "id": 84,
+                "title": "Chassis Wiring Looms"
+            },
+            {
+                "id": 45,
+                "title": "Front brake ducts"
+            },
+            {
+                "id": 42,
+                "title": "Engine or powertrains department and activities"
+            },
+            {
+                "id": 65,
+                "title": "Steering wheel"
+            },
+            {
+                "id": 46,
+                "title": "Chassis"
+            },
+            {
+                "id": 34,
+                "title": "Reassigned Employee Costs"
+            },
+            {
+                "id": 50,
+                "title": "Brake Drum Deflector"
+            },
+            {
+                "id": 37,
+                "title": "Nose"
+            },
+            {
+                "id": 40,
+                "title": "Engine software"
+            },
+            {
+                "id": 17,
+                "title": "Reserve Driver and 3rd Party Drivers costs"
+            },
+            {
+                "id": 41,
+                "title": "Sidepods"
+            },
+            {
+                "id": 43,
+                "title": "Energy Recovery System"
+            },
+            {
+                "id": 68,
+                "title": "Reverse Gear (Hydraulics)"
+            },
+            {
+                "id": 35,
+                "title": "Communication department and activities"
+            },
+            {
+                "id": 79,
+                "title": "Disc Bells (F1 Brake System)"
+            },
+            {
+                "id": 36,
+                "title": "Sponsorship department and activities"
+            },
+            {
+                "id": 52,
+                "title": "Front Suspension"
+            },
+            {
+                "id": 47,
+                "title": "Homologation"
+            },
+            {
+                "id": 78,
+                "title": "Master Cylinders (F1 Brake System)"
+            },
+            {
+                "id": 48,
+                "title": "Accident Damage"
+            },
+            {
+                "id": 53,
+                "title": "Wheel"
+            },
+            {
+                "id": 57,
+                "title": "Brakes"
+            },
+            {
+                "id": 58,
+                "title": "Electronics"
+            },
+            {
+                "id": 59,
+                "title": "Road freight costs"
+            },
+            {
+                "id": 51,
+                "title": "Monocoque"
+            },
+            {
+                "id": 69,
+                "title": "Differential (Hydraulics)"
+            },
+            {
+                "id": 1,
+                "title": "F1 Driver Salary Package"
+            },
+            {
+                "id": 61,
+                "title": "Salaries"
+            },
+            {
+                "id": 74,
+                "title": "Turbo Wastegate (Hydraulics)"
+            },
+            {
+                "id": 39,
+                "title": "F1 Engine"
+            },
+            {
+                "id": 80,
+                "title": "Accelerator Pedals"
+            },
+            {
+                "id": 54,
+                "title": "Rear Suspension"
+            },
+            {
+                "id": 33,
+                "title": "Employee Termination Benefits Costs"
+            },
+            {
+                "id": 75,
+                "title": "Brake Pads (F1 Brake System)"
+            },
+            {
+                "id": 81,
+                "title": "Brake Pedals (F1 Brake System)"
+            },
+            {
+                "id": 55,
+                "title": "Diffuser"
+            },
+            {
+                "id": 70,
+                "title": "DRS System (Hydraulics)"
+            },
+            {
+                "id": 20,
+                "title": "Employee Bonus Costs"
+            },
+            {
+                "id": 56,
+                "title": "Gearbox"
+            },
+            {
+                "id": 71,
+                "title": "Brake By Wire (Hydraulics)"
+            },
+            {
+                "id": 64,
+                "title": "Fuel tank"
+            },
+            {
+                "id": 66,
+                "title": "Clutch (Hydraulics)"
+            },
+            {
+                "id": 60,
+                "title": "Brake Disc"
+            },
+            {
+                "id": 26,
+                "title": "Employer social security contributions"
+            },
+            {
+                "id": 76,
+                "title": "Brake Discs (F1 Brake System)"
+            },
+            {
+                "id": 27,
+                "title": "Flight Costs by F1 Personnel"
+            },
+            {
+                "id": 15,
+                "title": "Legal Department and Activities"
+            },
+            {
+                "id": 11,
+                "title": "Car Development"
+            },
+            {
+                "id": 29,
+                "title": "Entertainment Costs"
+            },
+            {
+                "id": 82,
+                "title": "F1 Tyres"
+            },
+            {
+                "id": 25,
+                "title": "All foreign exchange gains and losses "
+            },
+            {
+                "id": 3,
+                "title": "Research and Development "
+            },
+            {
+                "id": 13,
+                "title": "Heritage Asset Department and Activities"
+            },
+            {
+                "id": 85,
+                "title": "Wheel Bearings"
+            },
+            {
+                "id": 31,
+                "title": "Employee sick leave costs"
+            },
+            {
+                "id": 21,
+                "title": "Costs to the FIA by an F1 Team"
+            },
+            {
+                "id": 63,
+                "title": "Bargeboard"
+            },
+            {
+                "id": 23,
+                "title": "F1 Power Unit Supply Costs"
+            },
+            {
+                "id": 32,
+                "title": "Indefinite sick leave or disability leave costs"
+            },
+            {
+                "id": 30,
+                "title": "Employee maternity leave, paternity leave, shared parental leave or adoption leave costs"
+            },
+            {
+                "id": 8,
+                "title": "Non-F1 Activities"
+            },
+            {
+                "id": 62,
+                "title": "Halo"
+            }
+        ],
+        "componentsTitle": {
+            "title": "F1 Budget Cap Tracker",
+            "internal_ref": "detailed-reports",
+            "sub_note": null,
+            "url": "/f1-budget-cap-tracker"
+        },
+        "races": [
+            {
+                "id": 10,
+                "name": "Canadian Grand Prix"
+            },
+            {
+                "id": 40,
+                "name": "Dutch Grand Prix"
+            },
+            {
+                "id": 4,
+                "name": "Azerbaijan Grand Prix"
+            },
+            {
+                "id": 34,
+                "name": "Canadian Grand Prix"
+            },
+            {
+                "id": 45,
+                "name": "United States Grand Prix"
+            },
+            {
+                "id": 16,
+                "name": "Dutch Grand Prix"
+            },
+            {
+                "id": 37,
+                "name": "French Grand Prix"
+            },
+            {
+                "id": 18,
+                "name": "Singapore Grand Prix"
+            },
+            {
+                "id": 19,
+                "name": "Japanese Grand Prix"
+            },
+            {
+                "id": 28,
+                "name": "Australian Grand Prix"
+            },
+            {
+                "id": 11,
+                "name": "Austrian Grand Prix"
+            },
+            {
+                "id": 38,
+                "name": "Hungarian Grand Prix"
+            },
+            {
+                "id": 43,
+                "name": "Singapore Grand Prix"
+            },
+            {
+                "id": 8,
+                "name": "Monaco Grand Prix"
+            },
+            {
+                "id": 20,
+                "name": "Qatar Grand Prix"
+            },
+            {
+                "id": 33,
+                "name": "Azerbaijan Grand Prix"
+            },
+            {
+                "id": 46,
+                "name": "Mexico Grand Prix"
+            },
+            {
+                "id": 21,
+                "name": "Mexico Grand Prix"
+            },
+            {
+                "id": 27,
+                "name": "Saudi Arabian Grand Prix"
+            },
+            {
+                "id": 36,
+                "name": "Austrian Grand Prix"
+            },
+            {
+                "id": 1,
+                "name": "Australian Grand Prix"
+            },
+            {
+                "id": 22,
+                "name": "United States Grand Prix"
+            },
+            {
+                "id": 7,
+                "name": "Imola Grand Prix"
+            },
+            {
+                "id": 48,
+                "name": "Dhabi Grand Prix"
+            },
+            {
+                "id": 15,
+                "name": "Belgian Grand Prix"
+            },
+            {
+                "id": 23,
+                "name": "Brazilian Grand Prix"
+            },
+            {
+                "id": 41,
+                "name": "Italian Grand Prix"
+            },
+            {
+                "id": 30,
+                "name": "Miami Grand Prix"
+            },
+            {
+                "id": 29,
+                "name": "Imola Grand Prix"
+            },
+            {
+                "id": 14,
+                "name": "Hungarian Grand Prix"
+            },
+            {
+                "id": 12,
+                "name": "British Grand Prix"
+            },
+            {
+                "id": 32,
+                "name": "Monaco Grand Prix"
+            },
+            {
+                "id": 39,
+                "name": "Belgian Grand Prix"
+            },
+            {
+                "id": 3,
+                "name": "Saudi Arabian Grand Prix"
+            },
+            {
+                "id": 44,
+                "name": "Japanese Grand Prix"
+            },
+            {
+                "id": 24,
+                "name": "Las Vegas Grand Prix"
+            },
+            {
+                "id": 31,
+                "name": "Spanish Grand Prix"
+            },
+            {
+                "id": 35,
+                "name": "United Kingdom Grand Prix "
+            },
+            {
+                "id": 42,
+                "name": "Russian Grand Prix"
+            },
+            {
+                "id": 9,
+                "name": "Spanish Grand Prix"
+            },
+            {
+                "id": 25,
+                "name": "Dhabi Grand Prix"
+            },
+            {
+                "id": 50,
+                "name": "Saudi Arabian Grand Prix"
+            },
+            {
+                "id": 6,
+                "name": "Miami Grand Prix"
+            },
+            {
+                "id": 17,
+                "name": "Italian Grand Prix"
+            },
+            {
+                "id": 2,
+                "name": "Bahrain Grand Prix"
+            },
+            {
+                "id": 51,
+                "name": "Australian Grand Prix"
+            },
+            {
+                "id": 49,
+                "name": "Bahrain Grand Prix"
+            },
+            {
+                "id": 47,
+                "name": "Brazilian Grand Prix"
+            },
+            {
+                "id": 26,
+                "name": "Bahrain Grand Prix"
+            }
+        ]
+    }
+}

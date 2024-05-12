@@ -1,0 +1,409 @@
+id,title,sum,team_id,year
+19,Japanese Grand Prix [2023],385417,1,2022
+21,Mexico Grand Prix [2023],385417,1,2022
+25,Dhabi Grand Prix [2023],385417,1,2022
+8,Monaco Grand Prix [2023],385417,1,2022
+17,Italian Grand Prix [2023],770834,1,2022
+15,Belgian Grand Prix [2023],385417,1,2022
+11,Austrian Grand Prix [2023],385417,1,2022
+4,Azerbaijan Grand Prix [2023],385417,1,2022
+14,Hungarian Grand Prix [2023],385417,1,2022
+10,Canadian Grand Prix [2023],385417,1,2022
+12,British Grand Prix [2023],385417,1,2022
+2,Bahrain Grand Prix [2023],385417,1,2022
+3,Saudi Arabian Grand Prix [2023],385417,1,2022
+9,Spanish Grand Prix [2023],385417,1,2022
+16,Dutch Grand Prix [2023],385417,1,2022
+1,Australian Grand Prix [2023],385417,1,2022
+23,Brazilian Grand Prix [2023],385417,1,2022
+18,Singapore Grand Prix [2023],385417,1,2022
+22,United States Grand Prix [2023],770834,1,2022
+9,Spanish Grand Prix [2023],1562500,2,2022
+14,Hungarian Grand Prix [2023],1562500,2,2022
+15,Belgian Grand Prix [2023],1562500,2,2022
+3,Saudi Arabian Grand Prix [2023],1562500,2,2022
+8,Monaco Grand Prix [2023],1562500,2,2022
+19,Japanese Grand Prix [2023],1562500,2,2022
+1,Australian Grand Prix [2023],1562500,2,2022
+17,Italian Grand Prix [2023],3125000,2,2022
+18,Singapore Grand Prix [2023],1562500,2,2022
+21,Mexico Grand Prix [2023],1562500,2,2022
+2,Bahrain Grand Prix [2023],1562500,2,2022
+25,Dhabi Grand Prix [2023],1562500,2,2022
+4,Azerbaijan Grand Prix [2023],1562500,2,2022
+11,Austrian Grand Prix [2023],1562500,2,2022
+22,United States Grand Prix [2023],3125000,2,2022
+16,Dutch Grand Prix [2023],1562500,2,2022
+12,British Grand Prix [2023],1562500,2,2022
+10,Canadian Grand Prix [2023],1562500,2,2022
+23,Brazilian Grand Prix [2023],1562500,2,2022
+1,Australian Grand Prix [2023],1250000,3,2022
+25,Dhabi Grand Prix [2023],1250000,3,2022
+15,Belgian Grand Prix [2023],1250000,3,2022
+18,Singapore Grand Prix [2023],1250000,3,2022
+19,Japanese Grand Prix [2023],1250000,3,2022
+23,Brazilian Grand Prix [2023],1250000,3,2022
+3,Saudi Arabian Grand Prix [2023],1250000,3,2022
+4,Azerbaijan Grand Prix [2023],1250000,3,2022
+14,Hungarian Grand Prix [2023],1250000,3,2022
+17,Italian Grand Prix [2023],2500000,3,2022
+11,Austrian Grand Prix [2023],1250000,3,2022
+22,United States Grand Prix [2023],2500000,3,2022
+2,Bahrain Grand Prix [2023],1250000,3,2022
+8,Monaco Grand Prix [2023],1250000,3,2022
+16,Dutch Grand Prix [2023],1250000,3,2022
+12,British Grand Prix [2023],1250000,3,2022
+21,Mexico Grand Prix [2023],1250000,3,2022
+10,Canadian Grand Prix [2023],1250000,3,2022
+9,Spanish Grand Prix [2023],1250000,3,2022
+16,Dutch Grand Prix [2023],1066667,4,2022
+11,Austrian Grand Prix [2023],1066667,4,2022
+21,Mexico Grand Prix [2023],1066667,4,2022
+9,Spanish Grand Prix [2023],1066667,4,2022
+12,British Grand Prix [2023],1066667,4,2022
+3,Saudi Arabian Grand Prix [2023],1066667,4,2022
+15,Belgian Grand Prix [2023],1066667,4,2022
+8,Monaco Grand Prix [2023],1066667,4,2022
+22,United States Grand Prix [2023],2133334,4,2022
+18,Singapore Grand Prix [2023],1066667,4,2022
+23,Brazilian Grand Prix [2023],1066667,4,2022
+25,Dhabi Grand Prix [2023],1066667,4,2022
+14,Hungarian Grand Prix [2023],1066667,4,2022
+4,Azerbaijan Grand Prix [2023],1066667,4,2022
+2,Bahrain Grand Prix [2023],1066667,4,2022
+1,Australian Grand Prix [2023],1066667,4,2022
+19,Japanese Grand Prix [2023],1066667,4,2022
+17,Italian Grand Prix [2023],2133334,4,2022
+23,Brazilian Grand Prix [2023],1604167,5,2022
+25,Dhabi Grand Prix [2023],1604167,5,2022
+21,Mexico Grand Prix [2023],1604167,5,2022
+16,Dutch Grand Prix [2023],1604167,5,2022
+14,Hungarian Grand Prix [2023],1604167,5,2022
+9,Spanish Grand Prix [2023],1604167,5,2022
+8,Monaco Grand Prix [2023],1604167,5,2022
+11,Austrian Grand Prix [2023],3208334,5,2022
+10,Canadian Grand Prix [2023],1604167,5,2022
+3,Saudi Arabian Grand Prix [2023],1604167,5,2022
+4,Azerbaijan Grand Prix [2023],1604167,5,2022
+19,Japanese Grand Prix [2023],1604167,5,2022
+22,United States Grand Prix [2023],3208334,5,2022
+15,Belgian Grand Prix [2023],1604167,5,2022
+17,Italian Grand Prix [2023],3208334,5,2022
+18,Singapore Grand Prix [2023],1604167,5,2022
+1,Australian Grand Prix [2023],1604167,5,2022
+2,Bahrain Grand Prix [2023],1604167,5,2022
+9,Spanish Grand Prix [2023],650000,6,2022
+3,Saudi Arabian Grand Prix [2023],650000,6,2022
+11,Austrian Grand Prix [2023],650000,6,2022
+14,Hungarian Grand Prix [2023],650000,6,2022
+25,Dhabi Grand Prix [2023],650000,6,2022
+21,Mexico Grand Prix [2023],650000,6,2022
+16,Dutch Grand Prix [2023],650000,6,2022
+18,Singapore Grand Prix [2023],650000,6,2022
+19,Japanese Grand Prix [2023],650000,6,2022
+23,Brazilian Grand Prix [2023],650000,6,2022
+2,Bahrain Grand Prix [2023],650000,6,2022
+17,Italian Grand Prix [2023],1300000,6,2022
+10,Canadian Grand Prix [2023],650000,6,2022
+8,Monaco Grand Prix [2023],650000,6,2022
+4,Azerbaijan Grand Prix [2023],650000,6,2022
+15,Belgian Grand Prix [2023],650000,6,2022
+22,United States Grand Prix [2023],1300000,6,2022
+12,British Grand Prix [2023],650000,6,2022
+1,Australian Grand Prix [2023],650000,6,2022
+22,United States Grand Prix [2023],833334,7,2022
+2,Bahrain Grand Prix [2023],416667,7,2022
+15,Belgian Grand Prix [2023],416667,7,2022
+8,Monaco Grand Prix [2023],416667,7,2022
+18,Singapore Grand Prix [2023],416667,7,2022
+23,Brazilian Grand Prix [2023],416667,7,2022
+19,Japanese Grand Prix [2023],416667,7,2022
+4,Azerbaijan Grand Prix [2023],416667,7,2022
+9,Spanish Grand Prix [2023],416667,7,2022
+11,Austrian Grand Prix [2023],416667,7,2022
+21,Mexico Grand Prix [2023],416667,7,2022
+1,Australian Grand Prix [2023],416667,7,2022
+14,Hungarian Grand Prix [2023],416667,7,2022
+17,Italian Grand Prix [2023],833334,7,2022
+10,Canadian Grand Prix [2023],416667,7,2022
+12,British Grand Prix [2023],416667,7,2022
+25,Dhabi Grand Prix [2023],416667,7,2022
+16,Dutch Grand Prix [2023],416667,7,2022
+3,Saudi Arabian Grand Prix [2023],416667,7,2022
+12,British Grand Prix [2023],447917,8,2022
+15,Belgian Grand Prix [2023],447917,8,2022
+4,Azerbaijan Grand Prix [2023],447917,8,2022
+9,Spanish Grand Prix [2023],447917,8,2022
+19,Japanese Grand Prix [2023],447917,8,2022
+23,Brazilian Grand Prix [2023],447917,8,2022
+2,Bahrain Grand Prix [2023],447917,8,2022
+21,Mexico Grand Prix [2023],447917,8,2022
+25,Dhabi Grand Prix [2023],447917,8,2022
+16,Dutch Grand Prix [2023],447917,8,2022
+18,Singapore Grand Prix [2023],447917,8,2022
+3,Saudi Arabian Grand Prix [2023],447917,8,2022
+14,Hungarian Grand Prix [2023],447917,8,2022
+22,United States Grand Prix [2023],895834,8,2022
+11,Austrian Grand Prix [2023],447917,8,2022
+8,Monaco Grand Prix [2023],447917,8,2022
+1,Australian Grand Prix [2023],447917,8,2022
+17,Italian Grand Prix [2023],895834,8,2022
+10,Canadian Grand Prix [2023],447917,8,2022
+14,Hungarian Grand Prix [2023],364583,9,2022
+12,British Grand Prix [2023],364583,9,2022
+21,Mexico Grand Prix [2023],729166,9,2022
+1,Australian Grand Prix [2023],364583,9,2022
+18,Singapore Grand Prix [2023],364583,9,2022
+15,Belgian Grand Prix [2023],364583,9,2022
+2,Bahrain Grand Prix [2023],364583,9,2022
+25,Dhabi Grand Prix [2023],364583,9,2022
+19,Japanese Grand Prix [2023],364583,9,2022
+10,Canadian Grand Prix [2023],729166,9,2022
+9,Spanish Grand Prix [2023],364583,9,2022
+17,Italian Grand Prix [2023],729166,9,2022
+3,Saudi Arabian Grand Prix [2023],364583,9,2022
+4,Azerbaijan Grand Prix [2023],364583,9,2022
+16,Dutch Grand Prix [2023],364583,9,2022
+11,Austrian Grand Prix [2023],364583,9,2022
+23,Brazilian Grand Prix [2023],364583,9,2022
+22,United States Grand Prix [2023],364583,9,2022
+21,Mexico Grand Prix [2023],665000,10,2022
+25,Dhabi Grand Prix [2023],665000,10,2022
+14,Hungarian Grand Prix [2023],665000,10,2022
+11,Austrian Grand Prix [2023],665000,10,2022
+19,Japanese Grand Prix [2023],665000,10,2022
+2,Bahrain Grand Prix [2023],665000,10,2022
+1,Australian Grand Prix [2023],665000,10,2022
+16,Dutch Grand Prix [2023],665000,10,2022
+17,Italian Grand Prix [2023],1330000,10,2022
+4,Azerbaijan Grand Prix [2023],665000,10,2022
+10,Canadian Grand Prix [2023],665000,10,2022
+23,Brazilian Grand Prix [2023],665000,10,2022
+3,Saudi Arabian Grand Prix [2023],665000,10,2022
+8,Monaco Grand Prix [2023],665000,10,2022
+12,British Grand Prix [2023],665000,10,2022
+15,Belgian Grand Prix [2023],665000,10,2022
+9,Spanish Grand Prix [2023],665000,10,2022
+22,United States Grand Prix [2023],1330000,10,2022
+18,Singapore Grand Prix [2023],665000,10,2022
+19,Japanese Grand Prix [2023],385417,1,2023
+21,Mexico Grand Prix [2023],385417,1,2023
+25,Dhabi Grand Prix [2023],385417,1,2023
+8,Monaco Grand Prix [2023],385417,1,2023
+17,Italian Grand Prix [2023],385417,1,2023
+15,Belgian Grand Prix [2023],385417,1,2023
+11,Austrian Grand Prix [2023],385417,1,2023
+4,Azerbaijan Grand Prix [2023],385417,1,2023
+14,Hungarian Grand Prix [2023],385417,1,2023
+7,Emilia Romagna Grand Prix [2023],385417,1,2023
+10,Canadian Grand Prix [2023],385417,1,2023
+12,British Grand Prix [2023],385417,1,2023
+2,Bahrain Grand Prix [2023],3637417,1,2023
+3,Saudi Arabian Grand Prix [2023],385417,1,2023
+9,Spanish Grand Prix [2023],385417,1,2023
+16,Dutch Grand Prix [2023],403417,1,2023
+1,Australian Grand Prix [2023],385417,1,2023
+23,Brazilian Grand Prix [2023],385417,1,2023
+18,Singapore Grand Prix [2023],385417,1,2023
+22,United States Grand Prix [2023],385417,1,2023
+6,Miami Grand Prix [2023],385417,1,2023
+9,Spanish Grand Prix [2023],1562500,2,2023
+14,Hungarian Grand Prix [2023],1562500,2,2023
+24,Las Vegas Grand Prix [2023],1562500,2,2023
+15,Belgian Grand Prix [2023],1562500,2,2023
+3,Saudi Arabian Grand Prix [2023],1562500,2,2023
+8,Monaco Grand Prix [2023],1562500,2,2023
+19,Japanese Grand Prix [2023],1562500,2,2023
+1,Australian Grand Prix [2023],1562500,2,2023
+17,Italian Grand Prix [2023],1562500,2,2023
+18,Singapore Grand Prix [2023],1562500,2,2023
+21,Mexico Grand Prix [2023],1562500,2,2023
+2,Bahrain Grand Prix [2023],5024500,2,2023
+25,Dhabi Grand Prix [2023],3125000,2,2023
+6,Miami Grand Prix [2023],1562500,2,2023
+4,Azerbaijan Grand Prix [2023],1562500,2,2023
+11,Austrian Grand Prix [2023],1562500,2,2023
+22,United States Grand Prix [2023],1562500,2,2023
+7,Emilia Romagna Grand Prix [2023],1562500,2,2023
+16,Dutch Grand Prix [2023],1580500,2,2023
+20,Qatar Grand Prix [2023],1562500,2,2023
+12,British Grand Prix [2023],1562500,2,2023
+10,Canadian Grand Prix [2023],1562500,2,2023
+23,Brazilian Grand Prix [2023],1562500,2,2023
+1,Australian Grand Prix [2023],1250000,3,2023
+25,Dhabi Grand Prix [2023],1250000,3,2023
+15,Belgian Grand Prix [2023],1250000,3,2023
+18,Singapore Grand Prix [2023],1250000,3,2023
+19,Japanese Grand Prix [2023],1250000,3,2023
+23,Brazilian Grand Prix [2023],1250000,3,2023
+24,Las Vegas Grand Prix [2023],1250000,3,2023
+3,Saudi Arabian Grand Prix [2023],1250000,3,2023
+4,Azerbaijan Grand Prix [2023],1250000,3,2023
+14,Hungarian Grand Prix [2023],1250000,3,2023
+6,Miami Grand Prix [2023],1250000,3,2023
+17,Italian Grand Prix [2023],1250000,3,2023
+20,Qatar Grand Prix [2023],1250000,3,2023
+11,Austrian Grand Prix [2023],1250000,3,2023
+22,United States Grand Prix [2023],1250000,3,2023
+2,Bahrain Grand Prix [2023],4654200,3,2023
+8,Monaco Grand Prix [2023],1250000,3,2023
+16,Dutch Grand Prix [2023],1268000,3,2023
+12,British Grand Prix [2023],1250000,3,2023
+21,Mexico Grand Prix [2023],1250000,3,2023
+10,Canadian Grand Prix [2023],1250000,3,2023
+7,Emilia Romagna Grand Prix [2023],1250000,3,2023
+9,Spanish Grand Prix [2023],1250000,3,2023
+16,Dutch Grand Prix [2023],18000,4,2023
+7,Emilia Romagna Grand Prix [2023],1066667,4,2023
+21,Mexico Grand Prix [2023],1066667,4,2023
+9,Spanish Grand Prix [2023],1066667,4,2023
+12,British Grand Prix [2023],1066667,4,2023
+3,Saudi Arabian Grand Prix [2023],1666667,4,2023
+15,Belgian Grand Prix [2023],1066667,4,2023
+10,Canadian Grand Prix [2023],1066667,4,2023
+8,Monaco Grand Prix [2023],1066667,4,2023
+22,United States Grand Prix [2023],1066667,4,2023
+20,Qatar Grand Prix [2023],1066667,4,2023
+18,Singapore Grand Prix [2023],1066667,4,2023
+23,Brazilian Grand Prix [2023],1066667,4,2023
+25,Dhabi Grand Prix [2023],1066667,4,2023
+14,Hungarian Grand Prix [2023],1066667,4,2023
+4,Azerbaijan Grand Prix [2023],1086667,4,2023
+2,Bahrain Grand Prix [2023],4411667,4,2023
+1,Australian Grand Prix [2023],1066667,4,2023
+19,Japanese Grand Prix [2023],1066667,4,2023
+6,Miami Grand Prix [2023],1135667,4,2023
+23,Brazilian Grand Prix [2023],1604167,5,2023
+25,Dhabi Grand Prix [2023],1604167,5,2023
+21,Mexico Grand Prix [2023],1604167,5,2023
+16,Dutch Grand Prix [2023],1622167,5,2023
+14,Hungarian Grand Prix [2023],1604167,5,2023
+9,Spanish Grand Prix [2023],1604167,5,2023
+8,Monaco Grand Prix [2023],1604167,5,2023
+11,Austrian Grand Prix [2023],1604167,5,2023
+10,Canadian Grand Prix [2023],1604167,5,2023
+3,Saudi Arabian Grand Prix [2023],1604167,5,2023
+4,Azerbaijan Grand Prix [2023],1604167,5,2023
+6,Miami Grand Prix [2023],1604167,5,2023
+22,United States Grand Prix [2023],1604167,5,2023
+7,Emilia Romagna Grand Prix [2023],1604167,5,2023
+20,Qatar Grand Prix [2023],1604167,5,2023
+24,Las Vegas Grand Prix [2023],1604167,5,2023
+15,Belgian Grand Prix [2023],1604167,5,2023
+12,British Grand Prix [2023],1604167,5,2023
+17,Italian Grand Prix [2023],1604167,5,2023
+18,Singapore Grand Prix [2023],3208334,5,2023
+1,Australian Grand Prix [2023],1604167,5,2023
+2,Bahrain Grand Prix [2023],4526167,5,2023
+7,Emilia Romagna Grand Prix [2023],650000,6,2023
+9,Spanish Grand Prix [2023],650000,6,2023
+3,Saudi Arabian Grand Prix [2023],650000,6,2023
+24,Las Vegas Grand Prix [2023],650000,6,2023
+6,Miami Grand Prix [2023],650000,6,2023
+11,Austrian Grand Prix [2023],650000,6,2023
+14,Hungarian Grand Prix [2023],650000,6,2023
+25,Dhabi Grand Prix [2023],650000,6,2023
+21,Mexico Grand Prix [2023],650000,6,2023
+16,Dutch Grand Prix [2023],668000,6,2023
+18,Singapore Grand Prix [2023],650000,6,2023
+19,Japanese Grand Prix [2023],650000,6,2023
+23,Brazilian Grand Prix [2023],650000,6,2023
+20,Qatar Grand Prix [2023],650000,6,2023
+2,Bahrain Grand Prix [2023],3332000,6,2023
+17,Italian Grand Prix [2023],650000,6,2023
+10,Canadian Grand Prix [2023],650000,6,2023
+8,Monaco Grand Prix [2023],650000,6,2023
+4,Azerbaijan Grand Prix [2023],650000,6,2023
+15,Belgian Grand Prix [2023],650000,6,2023
+22,United States Grand Prix [2023],650000,6,2023
+12,British Grand Prix [2023],650000,6,2023
+1,Australian Grand Prix [2023],650000,6,2023
+22,United States Grand Prix [2023],416667,7,2023
+20,Qatar Grand Prix [2023],416667,7,2023
+2,Bahrain Grand Prix [2023],3924667,7,2023
+15,Belgian Grand Prix [2023],416667,7,2023
+8,Monaco Grand Prix [2023],416667,7,2023
+18,Singapore Grand Prix [2023],416667,7,2023
+23,Brazilian Grand Prix [2023],416667,7,2023
+19,Japanese Grand Prix [2023],416667,7,2023
+4,Azerbaijan Grand Prix [2023],416667,7,2023
+9,Spanish Grand Prix [2023],416667,7,2023
+11,Austrian Grand Prix [2023],416667,7,2023
+21,Mexico Grand Prix [2023],416667,7,2023
+1,Australian Grand Prix [2023],416667,7,2023
+6,Miami Grand Prix [2023],416667,7,2023
+14,Hungarian Grand Prix [2023],416667,7,2023
+17,Italian Grand Prix [2023],416667,7,2023
+10,Canadian Grand Prix [2023],416667,7,2023
+12,British Grand Prix [2023],416667,7,2023
+25,Dhabi Grand Prix [2023],416667,7,2023
+16,Dutch Grand Prix [2023],434667,7,2023
+7,Emilia Romagna Grand Prix [2023],416667,7,2023
+3,Saudi Arabian Grand Prix [2023],416667,7,2023
+12,British Grand Prix [2023],447917,8,2023
+15,Belgian Grand Prix [2023],447917,8,2023
+20,Qatar Grand Prix [2023],447917,8,2023
+4,Azerbaijan Grand Prix [2023],447917,8,2023
+9,Spanish Grand Prix [2023],447917,8,2023
+19,Japanese Grand Prix [2023],447917,8,2023
+23,Brazilian Grand Prix [2023],447917,8,2023
+2,Bahrain Grand Prix [2023],3447917,8,2023
+7,Emilia Romagna Grand Prix [2023],447917,8,2023
+21,Mexico Grand Prix [2023],447917,8,2023
+25,Dhabi Grand Prix [2023],447917,8,2023
+16,Dutch Grand Prix [2023],465917,8,2023
+18,Singapore Grand Prix [2023],447917,8,2023
+6,Miami Grand Prix [2023],447917,8,2023
+3,Saudi Arabian Grand Prix [2023],447917,8,2023
+14,Hungarian Grand Prix [2023],447917,8,2023
+22,United States Grand Prix [2023],447917,8,2023
+11,Austrian Grand Prix [2023],447917,8,2023
+8,Monaco Grand Prix [2023],447917,8,2023
+1,Australian Grand Prix [2023],447917,8,2023
+17,Italian Grand Prix [2023],447917,8,2023
+10,Canadian Grand Prix [2023],447917,8,2023
+14,Hungarian Grand Prix [2023],364583,9,2023
+7,Emilia Romagna Grand Prix [2023],364583,9,2023
+12,British Grand Prix [2023],364583,9,2023
+20,Qatar Grand Prix [2023],364583,9,2023
+21,Mexico Grand Prix [2023],364583,9,2023
+1,Australian Grand Prix [2023],364583,9,2023
+18,Singapore Grand Prix [2023],364583,9,2023
+15,Belgian Grand Prix [2023],364583,9,2023
+8,Monaco Grand Prix [2023],364583,9,2023
+2,Bahrain Grand Prix [2023],3224583,9,2023
+25,Dhabi Grand Prix [2023],364583,9,2023
+19,Japanese Grand Prix [2023],364583,9,2023
+6,Miami Grand Prix [2023],364583,9,2023
+10,Canadian Grand Prix [2023],364583,9,2023
+9,Spanish Grand Prix [2023],364583,9,2023
+17,Italian Grand Prix [2023],364583,9,2023
+3,Saudi Arabian Grand Prix [2023],364583,9,2023
+4,Azerbaijan Grand Prix [2023],364583,9,2023
+16,Dutch Grand Prix [2023],382583,9,2023
+11,Austrian Grand Prix [2023],364583,9,2023
+23,Brazilian Grand Prix [2023],364583,9,2023
+22,United States Grand Prix [2023],364583,9,2023
+21,Mexico Grand Prix [2023],665000,10,2023
+25,Dhabi Grand Prix [2023],665000,10,2023
+14,Hungarian Grand Prix [2023],665000,10,2023
+11,Austrian Grand Prix [2023],665000,10,2023
+19,Japanese Grand Prix [2023],665000,10,2023
+6,Miami Grand Prix [2023],665000,10,2023
+2,Bahrain Grand Prix [2023],4239000,10,2023
+1,Australian Grand Prix [2023],665000,10,2023
+16,Dutch Grand Prix [2023],683000,10,2023
+17,Italian Grand Prix [2023],665000,10,2023
+4,Azerbaijan Grand Prix [2023],665000,10,2023
+7,Emilia Romagna Grand Prix [2023],665000,10,2023
+10,Canadian Grand Prix [2023],665000,10,2023
+23,Brazilian Grand Prix [2023],665000,10,2023
+24,Las Vegas Grand Prix [2023],665000,10,2023
+3,Saudi Arabian Grand Prix [2023],665000,10,2023
+8,Monaco Grand Prix [2023],665000,10,2023
+12,British Grand Prix [2023],665000,10,2023
+15,Belgian Grand Prix [2023],683000,10,2023
+20,Qatar Grand Prix [2023],665000,10,2023
+9,Spanish Grand Prix [2023],665000,10,2023
+22,United States Grand Prix [2023],665000,10,2023
+18,Singapore Grand Prix [2023],665000,10,2023
